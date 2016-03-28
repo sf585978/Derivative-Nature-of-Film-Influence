@@ -1,0 +1,2 @@
+# Derivative Nature of Film Influence
+This project aims to study the derivative nature of influence in networks of film directors from the USC Film School, NYU Tisch, or the population of untrained directors. The project uses network models built from data scraped from IMDB to identify sets of anncestors and decendants for a selection of representative directors before identifying the intersection and the complement of these sets.
